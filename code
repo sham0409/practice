@@ -10,4 +10,4 @@ while True:
   elif guess < secret_number:
     print("Too low! Try again.")
   else:
-    print("Too high! Try again.")
+    print("Too very very high! Try again.")
